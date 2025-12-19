@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Maison de 520",
+  "base_artist": "きゅるりんってしてみて",
+  "createdAt": "2025-12-19T17:21:12.094850Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Maison de Bonbonniere",
+      "artist": "ALI PROJECT",
+      "has_synced": true,
+      "path": "select/01_Maison_de_Bonbonniere_ALI_PROJECT.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dar Dgedi - La Maison De Mon Grand-Père",
+      "artist": "Souad Massi",
+      "has_synced": true,
+      "path": "select/02_Dar_Dgedi_-_La_Maison_De_Mon_Grand-Père_Souad_Massi.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "La Maison de mes parents",
+      "artist": "Ours",
+      "has_synced": false,
+      "path": "select/03_La_Maison_de_mes_parents_Ours.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dans la maison de Normandie",
+      "artist": "Yves Duteil",
+      "has_synced": false,
+      "path": "select/04_Dans_la_maison_de_Normandie_Yves_Duteil.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "La Maison de campagne",
+      "artist": "Michel Berger",
+      "has_synced": true,
+      "path": "select/05_La_Maison_de_campagne_Michel_Berger.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "La maison de Mara (Album Version)",
+      "artist": "William Sheller",
+      "has_synced": true,
+      "path": "select/06_La_maison_de_Mara_(Album_Version)_William_Sheller.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "La maison de retraite",
+      "artist": "Michel Jonasz",
+      "has_synced": true,
+      "path": "select/07_La_maison_de_retraite_Michel_Jonasz.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "La Maison de nos pères",
+      "artist": "La Maison Tellier",
+      "has_synced": false,
+      "path": "select/08_La_Maison_de_nos_pères_La_Maison_Tellier.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "La petite maison de shit",
+      "artist": "Leo Roi",
+      "has_synced": true,
+      "path": "select/09_La_petite_maison_de_shit_Leo_Roi.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "La maison de nos pères",
+      "artist": "Maison Tellier, La",
+      "has_synced": false,
+      "path": "select/10_La_maison_de_nos_pères_Maison_Tellier,_La.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Dans la maison de mon arrière-grand-père",
+      "artist": "Aldebert & Louis Chédid",
+      "has_synced": false,
+      "path": "select/11_Dans_la_maison_de_mon_arrière-grand-père_Aldebert_&_Louis_Chédid.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Dans la maison de mon arrière-grand-père",
+      "artist": "Aldebert & Chédid, Louis",
+      "has_synced": false,
+      "path": "select/12_Dans_la_maison_de_mon_arrière-grand-père_Aldebert_&_Chédid,_Louis.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Maison de Bonbonnière",
+      "artist": "ALI PROJECT",
+      "has_synced": true,
+      "path": "select/13_Maison_de_Bonbonnière_ALI_PROJECT.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Ma maison de papier",
+      "artist": "Patrick Bruel",
+      "has_synced": true,
+      "path": "select/14_Ma_maison_de_papier_Patrick_Bruel.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "La Maison de Disque",
+      "artist": "Kinito",
+      "has_synced": true,
+      "path": "select/15_La_Maison_de_Disque_Kinito.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Let Go (Maison de m-flo)",
+      "artist": "Shota Shimizu",
+      "has_synced": true,
+      "path": "select/16_Let_Go_(Maison_de_m-flo)_Shota_Shimizu.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "La Maison De Saraï (Live Zénith, Paris / Juin 2013)",
+      "artist": "M",
+      "has_synced": false,
+      "path": "select/17_La_Maison_De_Saraï_(Live_Zénith,_Paris___Juin_2013)_M.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Yours Only, - maison de m-flo",
+      "artist": "Kana Nishino",
+      "has_synced": false,
+      "path": "select/18_Yours_Only,_-_maison_de_m-flo_Kana_Nishino.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Maison de 520",
+      "artist": "きゅるりんってしてみて",
+      "has_synced": false,
+      "path": "select/pl_01_Maison_de_520_きゅるりんってしてみて.txt"
+    }
+  ]
+}
